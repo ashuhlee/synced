@@ -1,5 +1,6 @@
 <div align="center">
-  <h1 style="margin-top: 5px;">Synced</h1>
+  <img width="80" alt="app-icon" src="https://github.com/user-attachments/assets/e7c70824-5448-4ac6-81ed-b53369576c32" />
+  <h1 style="margin-top: 0px;">Synced</h1>
   <p>Plan and manage your Twitch stream schedule 📱</p>
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/ashuhlee/synced?style=for-the-badge&logo=starship&logoColor=%23D7E0ED&labelColor=%232F2D42&color=%23FFBDF2)](https://github.com/ashuhlee/synced/stargazers)
